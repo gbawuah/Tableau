@@ -1,2 +1,2 @@
 # Tableau
-This repository holds sample Tableau dashboard projects that I have executed.
+### This dashboard calculates the average athletic cost per student
